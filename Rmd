@@ -1,1 +1,2 @@
-
+top_10 <- c("Pablo Picasso", "Vincent van Gogh", "Michelangelo", "Rembrandt", "Andy Warhol", "Claude Monet", "Henri Matisse", "Paul Cézanne", "Egon Schiele", "Banksy")
+top_10_df <- as.data.frame(top_10)
